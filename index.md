@@ -13,10 +13,10 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+### Pearl's First CS193 Homework
 
-- Bulleted
-- List
+- CS193 is interactive
+- CS193 is the most fun CS class
 
 1. Numbered
 2. List
